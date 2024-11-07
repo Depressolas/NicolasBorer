@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NicolasBorerHSLU
+- 👋 Hi, I’m @NicolasBorer
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Data Science at the HSLU in Lucerne 
 - 💞️ I’m looking to collaborate on Currently nothing
